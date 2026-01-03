@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **anik841823@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** !Waste (A waste Management Solution)
+- 🔭 **I’m currently working on:** Machine learning EDA
 - 🌱 **I’m currently learning:** AI ML
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
